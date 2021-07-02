@@ -58,7 +58,7 @@
     <li class="active"><a href="/board/"><i class="fa fa-globe"></i>Welcome</a></li>
     <li><a href="#"><i class="fa fa-pencil"></i>About Me</a></li>
     <li><a href="#"><i class="fa fa-paperclip"></i>My Gallery</a></li>
-    <li><a href="#"><i class="fa fa-link"></i>Contact Me</a></li>
+    <li><a href="/board/pages/community.php"><i class="fa fa-link"></i>Community</a></li>
   </ul>
   <ul class="sns">
     <li><a href="#"><i class="fa fa-facebook"></i></a></li>
